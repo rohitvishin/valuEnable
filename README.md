@@ -76,6 +76,12 @@ The logic is implemented in a modular service layer for scalability and reuse.
 ### Backend
 
 ```bash
-cd backend
+REACT:
+cd insurance-illustration
+npm install
+npm start
+
+NODE:
+cd insurance-backend
 npm install
 npm run dev
